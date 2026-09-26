@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://mohmmedmmm168-dev.github.io/rm-store/sitemap.xml
